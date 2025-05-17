@@ -14,3 +14,5 @@ materials and code for my 3d year coursework
 1 0 1 1 0 
 
 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+Model on huggingface: https://huggingface.co/MaryObr/sarcasm-RuBERT
